@@ -1,5 +1,7 @@
 # Synthetic Life Axioms
 
+Design constraints for building systems that interact with the world as embodied agents — developed during work on [UNITARES](https://github.com/CIRWEL) and the Lumen embodiment project.
+
 > **Build nothing that appears more alive than it is.**
 
 ## Negative Constraints
